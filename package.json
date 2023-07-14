@@ -1,0 +1,24 @@
+{
+  "name": "@grams.dev/assets",
+  "version": "0.0.1",
+  "description": "A collection of all the media resources used across Grams applications.",
+  "author": "Grams Foundation",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "files": [
+    "img",
+    "logo"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grams-dev/assets.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/grams-dev/assets/issues"
+  },
+  "homepage": "https://github.com/grams-dev/assets#readme"
+}
