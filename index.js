@@ -1,9 +1,9 @@
 exports.img = (imgPath, extension) => {
     const ext = extension || 'png';
-    return `/img/${imgPath}.${ext}`;
+    return `./static/img/${imgPath}.${ext}`;
 }
 
 exports.logo = (logoPath, extension) => {
     const ext = extension || 'png';
-    return `/logo/${logoPath}.${ext}`;
+    return `./static/logo/${logoPath}.${ext}`;
 }
