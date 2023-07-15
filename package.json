@@ -6,8 +6,7 @@
   "license": "Apache-2.0",
   "main": "index.js",
   "files": [
-    "img",
-    "logo"
+    "static"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\""
