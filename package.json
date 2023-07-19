@@ -1,6 +1,6 @@
 {
   "name": "@grams.dev/assets",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A collection of all the media resources used across Grams applications.",
   "author": "Grams Foundation",
   "license": "Apache-2.0",
