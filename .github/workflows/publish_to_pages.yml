@@ -1,4 +1,4 @@
-name: Publish to npmjs and gh-pages
+name: Publish to gh-pages
 on:
   workflow_dispatch:
 jobs:
@@ -12,10 +12,6 @@ jobs:
           node-version: '16.x'
           registry-url: 'https://registry.npmjs.org'
       - run: npm ci
-      #- run: npm publish
-      #  env:
-      #    NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
