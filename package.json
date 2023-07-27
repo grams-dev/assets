@@ -9,6 +9,7 @@
     "static"
   ],
   "scripts": {
+    "setup": "npm install",
     "test": "echo \"Error: no test specified\""
   },
   "repository": {
