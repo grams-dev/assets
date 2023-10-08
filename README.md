@@ -1,7 +1,3 @@
-Certainly! A well-detailed README can go a long way in helping people understand your project, how to use it, and how to contribute to it. Here's a more descriptive README for your assets repository.
-
----
-
 # Grams Assets Repository
 
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/grams-dev/assets)
